@@ -1,0 +1,16 @@
+{
+  "name": "openshift",
+  "version": "1.0.0",
+  "description": "Pushing to github",
+  "license": "ISC",
+  "author": "Aayush",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
